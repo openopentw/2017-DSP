@@ -1,3 +1,6 @@
+# Vim
+.*.un~
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +29,13 @@
 *.exe
 *.out
 *.app
+
+hw1/record/01/
+
+hw1/record/02/
+
+hw1/record/03/
+
+hw1/record/04/
+
+hw1/record/05/
